@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/CuponeraRivas">
+    <Resource name="jdbc/mysql" auth="Container" type="javax.sql.DataSource"
+               maxActive="20" maxIdle="10" maxWait="5000"
+               username="cuponera" password="cuponera123" driverClassName="com.mysql.jdbc.Driver"
+               url="jdbc:mysql://localhost/la_cuponera"/>
+</Context>

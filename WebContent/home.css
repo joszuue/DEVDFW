@@ -1,0 +1,44 @@
+body{
+    background-color: #114358;
+}
+
+.jumbotron {
+    background-color: #ebebeb;
+}
+
+.navbar{
+    background-color: #ebebeb;
+}
+
+.card{
+    background-color: #114358;
+}
+
+.nav-item{
+    color: #114358;
+}
+
+.nav-link{
+    background-color: #ebebeb;
+}
+.custom-btn {
+    border-color: #114358;
+    color: #114358; 
+}
+
+.custom-btn:hover{
+    border-color: #114358;
+    background-color: #114358;
+    color: #ebebeb; 
+}
+
+.logo {
+    transition: transform 0.2s; 
+}
+  
+.logo:hover {
+    transform: scale(1.1); 
+}
+
+
+
